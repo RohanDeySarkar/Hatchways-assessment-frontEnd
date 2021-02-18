@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import './Header.css';
 
 import TextField from '@material-ui/core/TextField';
@@ -12,38 +12,44 @@ function Header() {
     const [name, setName] = useState("");
     const [searchTag, setSearchTag] = useState("");
 
-    console.log("ALL TAGS -->", tags);
+    useEffect(() => {
+        dispatch({
+            type: 'SET_FILTER',
+            payload: [name, searchTag]
+        });
 
-    // console.log(name);
+    }, [name, searchTag])
+
+    // console.log("Flter Name-->", name);
+    // console.log("Filter Tag -->", searchTag);
+
     return (
         <div className="header">
             <Autocomplete
-                id="free-solo-demo"
                 freeSolo
                 options={students.map((student) => student.firstName + ' ' + student.lastName)}
                 renderInput={(params) => (
                     <TextField 
                         {...params}
-                        autofocus
+                        autoFocus
                         type='text' 
                         label="Search by name"
-                        // onChange={(e) => setName(e.target.value)}
+                        onChange={(e) => setName(e.target.value)}
                     />
                 )}
                 onChange={(e, value) => setName(value)}
             />
             
             <Autocomplete
-                id="free-solo-demo"
                 freeSolo
                 options={tags.map((tag) => tag.tag)}
                 renderInput={(params) => (
                     <TextField 
                         {...params}
-                        autofocus
+                        autoFocus
                         type='text' 
                         label="Search by tag"
-                        // onChange={(e) => setSearchTag(e.target.value)}
+                        onChange={(e) => setSearchTag(e.target.value)}
                     />
                 )}
                 onChange={(e, value) => setSearchTag(value)}

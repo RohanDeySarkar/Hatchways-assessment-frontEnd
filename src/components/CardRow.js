@@ -96,7 +96,7 @@ const CardRow = forwardRef(({id, imageUrl, name, email, company, skill, grades},
 
                     <form onSubmit={handleSubmit} style={{marginLeft: "20px"}}>
                         <TextField
-                            autofocus
+                            autoFocus
                             type='text'
                             value={tag} 
                             label="Add a tag"
