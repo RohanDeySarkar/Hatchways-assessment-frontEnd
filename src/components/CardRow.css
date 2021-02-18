@@ -1,0 +1,75 @@
+.cardRow {
+    padding: 10px;
+}
+
+.cardRow__avatar {
+    height: 80px !important;
+    width: 80px !important;
+    object-fit: contain !important;
+    border: 1px solid rgb(83, 83, 83);
+    background-color: rgb(211, 211, 211) !important;
+}
+
+.cardRow__card {
+    max-width: 100%;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 10px 20px;
+    margin-bottom: 5px;
+}
+
+.cardRow__info {
+    flex: 0.9;
+}
+
+.cardRow__info > h1 {
+    font-weight: 700;
+    font-size: 50px;
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+
+.cardRow__info > p {
+    font-weight: 600;
+    margin-bottom: 5px;
+    color: gray;
+    padding: 0 20px;
+}
+
+/* .cardRow__info > .MuiTextField-root {
+    margin-left: 30px !important;
+} */
+
+.cardRow__infoGrades {
+    padding: 10px 20px;
+}
+
+.cardRow__infoGrades > p {
+    margin-bottom: 5px;
+}
+
+.cardRow__tags {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px 10px;
+}
+
+.cardRow__tags > p {
+    margin: 10px;
+    padding: 10px;
+    width: fit-content;
+    border-radius: 10px;
+    font-weight: 700;
+    color: black;
+    background-color: rgb(209, 209, 209);
+}
+
+.cardRow__icon {
+    transform: 200ms;
+}
+
+.cardRow__icon:hover {
+    transform: 200ms;
+    color: black;
+}
