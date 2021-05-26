@@ -1,3 +1,5 @@
+React.js assessment to fetch and display (ui was provided) 
+
 ![](https://github.com/RohanDeySarkar/Hatchways-assessment-frontEnd/blob/master/Screenshot%20(326).png?raw=true)
 
 Deployed here -> https://rohandeysarkar.github.io/Hatchways-assessment-frontEnd/
