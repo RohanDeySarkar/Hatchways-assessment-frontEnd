@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/Hatchways-assessment-frontEnd/static/css/main.930fe8c2.chunk.css",
-    "main.js": "/Hatchways-assessment-frontEnd/static/js/main.6e444a12.chunk.js",
-    "main.js.map": "/Hatchways-assessment-frontEnd/static/js/main.6e444a12.chunk.js.map",
-    "runtime-main.js": "/Hatchways-assessment-frontEnd/static/js/runtime-main.656e820b.js",
-    "runtime-main.js.map": "/Hatchways-assessment-frontEnd/static/js/runtime-main.656e820b.js.map",
-    "static/js/2.a86e17bd.chunk.js": "/Hatchways-assessment-frontEnd/static/js/2.a86e17bd.chunk.js",
-    "static/js/2.a86e17bd.chunk.js.map": "/Hatchways-assessment-frontEnd/static/js/2.a86e17bd.chunk.js.map",
-    "static/js/3.ef2c4cec.chunk.js": "/Hatchways-assessment-frontEnd/static/js/3.ef2c4cec.chunk.js",
-    "static/js/3.ef2c4cec.chunk.js.map": "/Hatchways-assessment-frontEnd/static/js/3.ef2c4cec.chunk.js.map",
+    "main.js": "/Hatchways-assessment-frontEnd/static/js/main.337165ec.chunk.js",
+    "main.js.map": "/Hatchways-assessment-frontEnd/static/js/main.337165ec.chunk.js.map",
+    "runtime-main.js": "/Hatchways-assessment-frontEnd/static/js/runtime-main.636c8c5d.js",
+    "runtime-main.js.map": "/Hatchways-assessment-frontEnd/static/js/runtime-main.636c8c5d.js.map",
+    "static/js/2.92a5894d.chunk.js": "/Hatchways-assessment-frontEnd/static/js/2.92a5894d.chunk.js",
+    "static/js/2.92a5894d.chunk.js.map": "/Hatchways-assessment-frontEnd/static/js/2.92a5894d.chunk.js.map",
+    "static/js/3.cd8aa347.chunk.js": "/Hatchways-assessment-frontEnd/static/js/3.cd8aa347.chunk.js",
+    "static/js/3.cd8aa347.chunk.js.map": "/Hatchways-assessment-frontEnd/static/js/3.cd8aa347.chunk.js.map",
     "index.html": "/Hatchways-assessment-frontEnd/index.html",
     "static/css/main.930fe8c2.chunk.css.map": "/Hatchways-assessment-frontEnd/static/css/main.930fe8c2.chunk.css.map",
-    "static/js/2.a86e17bd.chunk.js.LICENSE.txt": "/Hatchways-assessment-frontEnd/static/js/2.a86e17bd.chunk.js.LICENSE.txt"
+    "static/js/2.92a5894d.chunk.js.LICENSE.txt": "/Hatchways-assessment-frontEnd/static/js/2.92a5894d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.656e820b.js",
-    "static/js/2.a86e17bd.chunk.js",
+    "static/js/runtime-main.636c8c5d.js",
+    "static/js/2.92a5894d.chunk.js",
     "static/css/main.930fe8c2.chunk.css",
-    "static/js/main.6e444a12.chunk.js"
+    "static/js/main.337165ec.chunk.js"
   ]
 }
