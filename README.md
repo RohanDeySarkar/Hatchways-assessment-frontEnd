@@ -3,7 +3,7 @@ React.js assessment
  -> Add tags to students 
  -> Search student by name
 
-![](https://github.com/RohanDeySarkar/Hatchways-assessment-frontEnd/blob/master/Screenshot%20(326).png?raw=true)
+![](https://github.com/RohanDeySarkar/Hatchways-assessment-frontEnd/blob/master/Screenshot%20(327).png?raw=true)
 
 Deployed here -> https://rohandeysarkar.github.io/Hatchways-assessment-frontEnd/
 
