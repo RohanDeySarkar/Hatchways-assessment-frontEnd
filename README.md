@@ -1,3 +1,5 @@
+![](https://github.com/RohanDeySarkar/Hatchways-assessment-frontEnd/blob/master/Screenshot%20(326).png?raw=true)
+
 Deployed here -> https://rohandeysarkar.github.io/Hatchways-assessment-frontEnd/
 
 # Getting Started with Create React App
