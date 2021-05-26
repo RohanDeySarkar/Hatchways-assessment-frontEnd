@@ -1,4 +1,7 @@
-React.js assessment to fetch and display (ui was provided) 
+React.js assessment
+ -> Fetch and show studen details
+ -> Add tags to students 
+ -> Search student by name
 
 ![](https://github.com/RohanDeySarkar/Hatchways-assessment-frontEnd/blob/master/Screenshot%20(326).png?raw=true)
 
